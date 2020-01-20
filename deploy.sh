@@ -1,1 +1,0 @@
-docker run -it -p 8900:8080 --rm --name portfolio juanmmorello/portfolio
