@@ -91,16 +91,15 @@ export default {
   margin: 45px 0px;
 }
 .jmm-mainTitle {
-  color: rgb(209, 209, 209);
+  color: rgb(212, 212, 212);
 }
 .jmm-subTitle {
-  color: rgb(184, 184, 184);
+  color: rgb(179, 179, 179);
 }
 
 .jmm-marginHelper {
   margin-bottom: 40px;
 }
-
 .jmm-card {
   background-color: rgba(204, 204, 204, 0.884);
   margin-bottom: 50px;
