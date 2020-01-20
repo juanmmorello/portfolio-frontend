@@ -4,7 +4,7 @@
       <Navbar />
       <div class="row">
         <div class="col jmm-header">
-          <h1 class="text-center jmm-mainTitle">Juan M. Morello</h1>
+          <h1 class="text-center jmm-mainTitle">Juan María Morello</h1>
           <h2 class="text-center jmm-subTitle">Fullstack software developer</h2>
         </div>
       </div>
